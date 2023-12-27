@@ -1,5 +1,5 @@
 """Constants"""
-APP_NAME = 'Smart Pinger'
+APP_NAME = 'PingerAlert'
 SOUNDS_PATH = 'sounds'
 DOWN_ALERT_SOUND= 'down_alert.wav'
 UP_ALERT_SOUND= 'up_alert.wav'
